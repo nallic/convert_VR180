@@ -5,7 +5,7 @@
 
 ## 🚀 Overview
 
-The **VR180 Image Converter** is a small tool I made for the purpose of getting the most out of my Canon R7 with the Dual Fisheye 3.9mm lens. The "Canon VR Utility" works fine, but it has some conservative choices and I felt more could be squeezed from this setup.
+The **VR180 Image Converter** is a small tool I made for the purpose of getting the most out of my Canon R7 with the Dual Fisheye 3.9mm lens. The "Canon EOS VR Utility" works fine, but it has some conservative choices and I felt more could be squeezed from this setup.
 
 ```bash
 $ python convert_VR180_images.py -h
@@ -30,7 +30,7 @@ options:
 - 🎥 **Batch Processing**: Converts all images in a folder, runs in parallel and very fast.
 - 📜 **Customizable Distortion Maps**: Use included ST maps or create your own for specific requirements.
 - 🖼 **Output Control**: Generates high-quality JPEG images with only a single resampling conversion, for least amount of loss.
-- 🌍 **Utilizes all of captured image**: The 3.9mm lens is sold as 144° FOV. In reality it is more like 154°, but the outermost part has more chromatic distortions and is removed by the "Canon VR" tool. I include it as it makes the images more immersive.
+- 🌍 **Utilizes all of captured image**: The 3.9mm lens is sold as 144° FOV. In reality it is more like 154°, but the outermost part has more chromatic distortions and is removed by the "Canon EOS VR" Utility. I include it as it makes the images more immersive.
 
 ---
 
@@ -44,7 +44,11 @@ This approach allows us to create a map that can morph the shape of one image in
 
 Included in this project are pre-made maps. But be aware these have baked in alignment and might not be perfect for your camera. I am working on a better tool which will make these maps. Contact me if you want help on making a map for your own setup.
 
-[Canon R7 dual fisheye 3.9mm photo mode - equirectangular](maps/R7_still_conversion_ST.exr)
+[Canon R7 dual fisheye 3.9mm photo (6960x4640) - equirectangular](maps/R7_still_conversion_ST.exr)
+
+[Canon R7 dual fisheye 3.9mm photo (6960x4640) - flat stereoscopic](https://drive.google.com/file/d/1ZwtnKOCAC2uYfpMcTV79F0SKxqinNdKL/view?usp=sharing)
+
+[Canon R5 dual fisheye 5.2mm photo (8192x5454) - equirectangular](https://drive.google.com/file/d/1mpHEOztuarhH6w7TtuqTCWAf2TxxqlJK/view?usp=sharing)
 
 ---
 
