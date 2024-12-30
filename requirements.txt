@@ -1,0 +1,4 @@
+opencv-python-headless
+Pillow
+numpy
+imageio
