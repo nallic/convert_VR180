@@ -77,6 +77,6 @@ To install requirements needed for the script.
 Run the tool on command line:
 
 ```bash
-python convert_VR180_images.py  --st maps/R7_still_conversion_ST_stereo_SBS.exr --input_folder "C:\input_files\" --output_folder "C:\input_files\SBS\"
+python convert_VR180_images.py  --st maps/R7_still_conversion_ST.exr --input_folder "C:\input_files\" --output_folder "C:\input_files\SBS\"
 ```
 
