@@ -48,6 +48,8 @@ Included in this project are pre-made maps. But be aware these have baked in ali
 
 [Canon R7 dual fisheye 3.9mm photo (6960x4640) - flat stereoscopic](https://drive.google.com/file/d/1ZwtnKOCAC2uYfpMcTV79F0SKxqinNdKL/view?usp=sharing)
 
+[Canon R7 7.8mm stereographic lens photo (6960x4640) - (4 maps - equirectangular, flat 1:1, flat wide and portrait](https://drive.google.com/file/d/1MgYUbzWOudgdL6AC8DClig4J51oBwPNF/view?usp=sharing)
+
 [Canon R5 dual fisheye 5.2mm photo (8192x5454) - equirectangular](https://drive.google.com/file/d/1mpHEOztuarhH6w7TtuqTCWAf2TxxqlJK/view?usp=sharing)
 
 ---
